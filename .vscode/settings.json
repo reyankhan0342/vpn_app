@@ -1,0 +1,14 @@
+{
+    "cSpell.words": [
+        "Getx"
+    ],
+    "editor.wordWrap": "off",
+    "editor.bracketPairColorization.enabled": true,
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "editor.codeActions.triggerOnFocusChange": true,
+    "editor.columnSelection": false,
+    "ipynb.experimental.serialization": true,
+    "better-comments.highlightPlainText": true,
+    "editor.comments.ignoreEmptyLines": false,
+    "editor.comments.insertSpace": true
+}
